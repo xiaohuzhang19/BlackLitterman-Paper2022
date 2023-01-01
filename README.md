@@ -1,5 +1,5 @@
 # BlackLitterman-Paper2022
-#### On the Black–Litterman Model: Learning to Do Better
+### On the Black–Litterman Model: Learning to Do Better
 #### Ren-Raw Chen, Shih-Kuo Yeh and Xiaohu Zhang
 The Journal of Financial Data Science Summer 2022, 4 (3) 66-88; DOI: https://doi.org/10.3905/jfds.2022.1.096
 
